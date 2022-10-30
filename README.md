@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Full Stack Developer / Aspiring Software Engineer
 ----------------------------------------------------------
 
-I'm a recent IT graduate searching for a career as a developer or software engineer to use my abilities and experience. I'm also prepared to learn and be trained. I have some experience using REACT, ANGULAR, and VIU in front-end development. I acquired my abilities by participating in bootcamps and trainings as well as by observing popular dev youtubers..
+I'm a recent IT graduate searching for a career as a developer or software engineer to use my abilities and experience. I'm also prepared to learn and be trained. I have some experience using REACT, ANGULAR, and VUE in front-end development. I acquired my abilities by participating in bootcamps and trainings as well as by observing popular dev youtubers..
 
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [MyPortfolio](http://princejosephesteves.netlify.app/)
