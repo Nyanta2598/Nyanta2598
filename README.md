@@ -6,12 +6,18 @@ Aspiring Full Stack Developer / Aspiring Software Engineer
 
 I'm a recent IT graduate searching for a career as a developer or software engineer to use my abilities and experience. I'm also prepared to learn and be trained. I have some experience using REACT, ANGULAR, and VIU in front-end development. I acquired my abilities by participating in bootcamps and trainings as well as by observing popular dev youtubers..
 
-*   🌍  I'm based in Philippines
-*   🖥️  See my portfolio at [MyPortfolio](http://princejosephesteves.netlify.app/)
-*   ✉️  You can contact me at [pjesteves15@gmail.com](mailto:pjesteves15@gmail.com)<a href="https://www.twitter.com/pjesteves15" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/pjesteves15?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a><a href="https://www.github.com/Nyanta2598" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/Nyanta2598?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
+* 🌍  I'm based in Philippines
+* 🖥️  See my portfolio at [MyPortfolio](http://princejosephesteves.netlify.app/)
+* ✉️  You can contact me at [pjesteves15@gmail.com](mailto:pjesteves15@gmail.com)
+
+<a href="https://www.twitter.com/pjesteves15" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/pjesteves15?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/Nyanta2598" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Nyanta2598?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Skills
+
+
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -48,18 +54,18 @@ I'm a recent IT graduate searching for a career as a developer or software engin
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.facebook.com/Nyanta25/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/Nyanta2598" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/princeesteves" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/pjesteves15" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/Nyanta2598"><img src="https://github-readme-stats.vercel.app/api?username=Nyanta2598&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Nyanta2598's GitHub stats" /></a><a
-                      href="http://www.github.com/Nyanta2598"><img src="https://activity-graph.herokuapp.com/graph?username=Nyanta2598&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/Nyanta2598" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyanta2598&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.facebook.com/Nyanta25/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Nyanta2598" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/princeesteves" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/pjesteves15" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Nyanta2598"><img src="https://github-readme-stats.vercel.app/api?username=Nyanta2598&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Nyanta2598's GitHub stats" /></a>
+
+<a href="http://www.github.com/Nyanta2598"><img src="https://activity-graph.herokuapp.com/graph?username=Nyanta2598&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/Nyanta2598" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyanta2598&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
