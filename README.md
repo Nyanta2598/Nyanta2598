@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prince
 ==============================================================================================================================
 
-Aspiring Full Stack Developer / Aspiring Software Engineer
+Pursuing Full Stack Developer / Aspiring Software Engineer
 ----------------------------------------------------------
 
 I'm a recent IT graduate searching for a career as a developer or software engineer to use my abilities and experience. I'm also prepared to learn and be trained. I have some experience using REACT, ANGULAR, and VUE in front-end development.
