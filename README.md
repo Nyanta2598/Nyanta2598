@@ -63,9 +63,9 @@ src="https://img.shields.io/github/followers/Nyanta2598?logo=github&style=for-th
 
 <b>My GitHub Stats</b>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nyanta2598&show_icons=true&theme=dark&locale=en&layout=compact" alt="Nyanta2598" /></p>
-<br></br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nyanta2598&show_icons=true&theme=dark&locale=en" alt="Nyanta2598" /></p>
-<br></br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nyanta2598&theme=dark" alt="Nyanta2598" /></p>
-<br></br>
+<p><center><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nyanta2598&show_icons=true&theme=dark&locale=en&layout=compact" alt="Nyanta2598" /></center></p>
+
+<p><center><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nyanta2598&show_icons=true&theme=dark&locale=en" alt="Nyanta2598" /></center></p>
+
+<p><center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nyanta2598&theme=dark" alt="Nyanta2598" /></center></p>
+
