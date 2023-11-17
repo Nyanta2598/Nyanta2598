@@ -60,7 +60,7 @@ src="https://img.shields.io/github/followers/Nyanta2598?logo=github&style=for-th
 <p align="left"> <a href="https://www.facebook.com/Nyanta25/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Nyanta2598" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/princeesteves" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/pjesteves15" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
-
+[![Visits Badge](https://badges.strrl.dev/visits/Nyanta2598/Nyanta2598?style=for-the-badge&color=eb1b0c)](https://badges.strrl.dev)
 <b>My GitHub Stats</b>
 
 <p><center><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nyanta2598&show_icons=true&theme=dark&locale=en&layout=compact" alt="Nyanta2598" /></center></p>
