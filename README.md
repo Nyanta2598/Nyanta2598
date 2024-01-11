@@ -71,3 +71,5 @@ src="https://img.shields.io/github/followers/Nyanta2598?logo=github&style=for-th
 
 <p><center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nyanta2598&theme=dark" alt="Nyanta2598" /></center></p>
 
+<p><center><img align="center" width="200" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nyanta2598&badges=5&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px" alt="Nyanta"></center></p>
+
